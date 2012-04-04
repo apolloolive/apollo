@@ -1,0 +1,199 @@
+[Thu Mar 29 21:36:18 2012] [notice] Apache/2.2.21 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Thu Mar 29 21:36:18 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Mar 29 21:36:18 2012] [notice] Parent: Created child process 36008
+[Thu Mar 29 21:36:18 2012] [notice] Child 36008: Child process is running
+[Thu Mar 29 21:36:18 2012] [notice] Child 36008: Acquired the start mutex.
+[Thu Mar 29 21:36:18 2012] [notice] Child 36008: Starting 64 worker threads.
+[Thu Mar 29 21:36:18 2012] [notice] Child 36008: Starting thread to listen on port 80.
+[Thu Mar 29 21:36:18 2012] [notice] Child 36008: Starting thread to listen on port 80.
+[Thu Mar 29 21:37:13 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Thu Mar 29 21:37:13 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Thu Mar 29 21:37:13 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Thu Mar 29 23:19:05 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 29 23:19:05 2012] [notice] Child 36008: Exit event signaled. Child process is ending.
+[Thu Mar 29 23:19:06 2012] [notice] Child 36008: Released the start mutex
+[Thu Mar 29 23:19:07 2012] [notice] Child 36008: All worker threads have exited.
+[Thu Mar 29 23:19:07 2012] [notice] Child 36008: Child process is exiting
+[Thu Mar 29 23:19:07 2012] [notice] Parent: Child process exited successfully.
+[Sat Mar 31 02:02:54 2012] [notice] Apache/2.2.21 (Win32) PHP/5.3.10 configured -- resuming normal operations
+[Sat Mar 31 02:02:54 2012] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 31 02:02:54 2012] [notice] Parent: Created child process 101868
+[Sat Mar 31 02:02:54 2012] [notice] Child 101868: Child process is running
+[Sat Mar 31 02:02:54 2012] [notice] Child 101868: Acquired the start mutex.
+[Sat Mar 31 02:02:54 2012] [notice] Child 101868: Starting 64 worker threads.
+[Sat Mar 31 02:02:54 2012] [notice] Child 101868: Starting thread to listen on port 80.
+[Sat Mar 31 02:02:54 2012] [notice] Child 101868: Starting thread to listen on port 80.
+[Sat Mar 31 02:03:05 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:04:59 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:04:59 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:05:00 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:05:00 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:05:01 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:05:01 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:05:01 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:05:02 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:13:43 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:13:45 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:13:47 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:13:48 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:13:49 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:13:51 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:13:52 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:13:53 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:13:53 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:13:53 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:15:38 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:15:40 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:15:41 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:15:41 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/recuit.html, referer: http://127.0.0.1/details.html
+[Sat Mar 31 02:15:41 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:15:42 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:15:44 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:15:58 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:17:15 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:17:15 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:17:21 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:17:22 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:17:23 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:17:24 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:17:24 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:18:39 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: editFormAction in C:\\wamp\\www\\contacts.php on line 112, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 02:18:39 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 02:18:39 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\contacts.php:0, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 02:18:39 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:18:42 2012] [error] [client 127.0.0.1] (20024)The given path is misformatted or contained invalid characters: Cannot map POST /%3Cbr%20/%3E%3Cfont%20size='1'%3E%3Ctable%20class='xdebug-error'%20dir='ltr'%20border='1'%20cellspacing='0'%20cellpadding='1'%3E%3Ctr%3E%3Cth%20align='left'%20bgcolor=' HTTP/1.1 to file, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 02:18:42 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:18:47 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:20:07 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: editFormAction in C:\\wamp\\www\\contacts.php on line 112, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 02:20:07 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 02:20:07 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\contacts.php:0, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 02:20:08 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:20:27 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:20:48 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:22:21 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:22:24 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:22:25 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:22:25 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:24:05 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:24:06 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:24:06 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:24:09 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:24:11 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:24:11 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:24:11 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:24:12 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:24:12 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:24:13 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:26:35 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:26:36 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:26:38 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:26:38 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:26:39 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:26:39 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:26:40 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:26:41 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:27:51 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:27:52 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:27:54 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:28:00 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:28:01 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:28:27 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:28:28 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:28:30 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:28:31 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:28:31 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:28:31 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:29:04 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:29:05 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:29:06 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:29:07 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:29:18 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:29:19 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:30:28 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:30:29 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:32:18 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:32:19 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:32:41 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:32:53 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:44:46 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:44:47 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined index: name in C:\\wamp\\www\\contacts.php on line 6, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:47 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:47 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\contacts.php:0, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:47 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined index: contact in C:\\wamp\\www\\contacts.php on line 7, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:47 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:47 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\contacts.php:0, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:47 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined index: messageContent in C:\\wamp\\www\\contacts.php on line 9, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:47 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:47 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\contacts.php:0, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:48 2012] [error] [client 127.0.0.1] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\wamp\\www\\contacts.php on line 11, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:48 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:48 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\contacts.php:0, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:48 2012] [error] [client 127.0.0.1] PHP   2. mail() C:\\wamp\\www\\contacts.php:11, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:44:48 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:48:05 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 02:48:06 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined index: name in C:\\wamp\\www\\contacts.php on line 7, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:06 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:06 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\contacts.php:0, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:06 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined index: contact in C:\\wamp\\www\\contacts.php on line 7, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:06 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:06 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\contacts.php:0, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:06 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined index: messageContent in C:\\wamp\\www\\contacts.php on line 7, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:06 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:06 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\contacts.php:0, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:07 2012] [error] [client 127.0.0.1] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\wamp\\www\\contacts.php on line 7, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:07 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:07 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\contacts.php:0, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:07 2012] [error] [client 127.0.0.1] PHP   2. mail() C:\\wamp\\www\\contacts.php:7, referer: http://127.0.0.1/index.html
+[Sat Mar 31 02:48:07 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:01:40 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:01:42 2012] [error] [client 127.0.0.1] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\wamp\\www\\sendMail.php on line 9, referer: http://127.0.0.1/index.html
+[Sat Mar 31 03:01:42 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/index.html
+[Sat Mar 31 03:01:42 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\sendMail.php:0, referer: http://127.0.0.1/index.html
+[Sat Mar 31 03:01:42 2012] [error] [client 127.0.0.1] PHP   2. mail() C:\\wamp\\www\\sendMail.php:9, referer: http://127.0.0.1/index.html
+[Sat Mar 31 03:01:42 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:01:46 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:15:48 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:15:49 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:16:11 2012] [error] [client 127.0.0.1] PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\\wamp\\www\\sendMail.php on line 9, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 03:16:11 2012] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 03:16:11 2012] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\sendMail.php:0, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 03:16:11 2012] [error] [client 127.0.0.1] PHP   2. mail() C:\\wamp\\www\\sendMail.php:9, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 03:16:11 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:16:14 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:48:35 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:48:36 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:49:29 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/contacts, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 03:49:29 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:49:31 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:49:35 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:49:36 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:50:02 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:50:03 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:50:16 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:50:16 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:50:16 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:50:29 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:50:30 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:50:41 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 03:50:42 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:00:40 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:00:41 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:00:44 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in C:\\wamp\\www\\sendMail.php on line 22, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 04:00:44 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:01:50 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:01:53 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:03:11 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:04:55 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:04:57 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:05:02 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in C:\\wamp\\www\\sendMail.php on line 22, referer: http://127.0.0.1/contacts.php
+[Sat Mar 31 04:05:02 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:08:16 2012] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in C:\\wamp\\www\\index.php on line 2
+[Sat Mar 31 04:08:16 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:08:55 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 04:08:59 2012] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 31 17:06:59 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 31 17:06:59 2012] [notice] Child 101868: Exit event signaled. Child process is ending.
+[Sat Mar 31 17:07:00 2012] [notice] Child 101868: Released the start mutex
+[Sat Mar 31 17:07:01 2012] [notice] Child 101868: All worker threads have exited.
+[Sat Mar 31 17:07:01 2012] [notice] Child 101868: Child process is exiting
+[Sat Mar 31 17:07:01 2012] [notice] Parent: Child process exited successfully.
